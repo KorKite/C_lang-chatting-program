@@ -4,7 +4,6 @@
   1. 서버를 실행합니다.
   2. client.c를 통해 서버에 접속하고 원하느 사람에게 채팅을 칠 수 있습니다.
 
-![슬라이드1](https://user-images.githubusercontent.com/50725139/102664408-0d747c80-41c6-11eb-9d6a-7325339cf5af.png)
 ![슬라이드2](https://user-images.githubusercontent.com/50725139/102664413-0f3e4000-41c6-11eb-9ccb-d7af0020f8f3.png)
 ![슬라이드3](https://user-images.githubusercontent.com/50725139/102664414-0fd6d680-41c6-11eb-93a6-4bb612b9d55d.png)
 ![슬라이드4](https://user-images.githubusercontent.com/50725139/102664415-106f6d00-41c6-11eb-9f44-d68a4625cc92.png)
